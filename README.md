@@ -1,5 +1,5 @@
 # HTML Radio Streamer
-Melakukan streaming via Tag &lt;audio> HTML
+Aplikasi Radio Streaming Client menggunakan Tag &lt;audio> HTML
 
 ## Unduh menggunakan git
 Jalankan perintah ini pada Terminal atau Command Prompt:
