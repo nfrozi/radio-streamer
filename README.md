@@ -11,3 +11,6 @@ Unduh via: https://github.com/nfrozi/radio-streamer/archive/main.zip
 
 # Cara Menjalankan
 Buka (double click) file `index.html`
+
+# Cara Membuka pada VSCode
+ketik perintah `code .` pada direktori `radio-streamer`
