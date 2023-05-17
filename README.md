@@ -1,4 +1,4 @@
-# HTML Radio Streamer
+## HTML Radio Streamer
 Aplikasi Radio Streaming Client menggunakan Tag &lt;audio> HTML
 
 ## Unduh menggunakan git
@@ -12,5 +12,5 @@ Unduh via: https://github.com/nfrozi/radio-streamer/archive/main.zip
 # Cara Menjalankan
 Buka (double click) file `index.html`
 
-# Cara Membuka pada VSCode
+### Cara Membuka pada VSCode
 ketik perintah `code .` pada direktori `radio-streamer`
